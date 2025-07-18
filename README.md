@@ -10,7 +10,7 @@ We're a dynamic startup at the forefront of digital technologies and artificial 
 
 - 📫 Reach us via our email **numiassarl@gmail.com**
 
-- 📄 Know much about us [https://numias.ah-dev.com](https://numias.ah-dev.com)
+- 📄 Know much about us [https://numias.gis-sarl.com](https://numias.gis-sarl.com)
 
 ## Our Work Samples
 
